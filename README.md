@@ -6,7 +6,7 @@
 ## 📌 Project Overview
 Retail companies generate massive amounts of transactional data every day. However, many organizations struggle to convert this data into meaningful business insights.
 
-The **Store Sales Analysis** project analyzes a Superstore dataset containing **9,800 transactions** across multiple regions, product categories, and customer segments. The objective is to transform raw retail data into actionable insights that can help businesses:
+The **Store Sales Analysis** project analyzes a comprehensive Superstore dataset across multiple regions, product categories, and customer segments. The objective is to transform raw retail data into actionable insights that can help businesses:
 
 * **Increase revenue** through strategic product focus.
 * **Reduce operational inefficiencies**.
@@ -16,7 +16,7 @@ The **Store Sales Analysis** project analyzes a Superstore dataset containing **
 ---
 
 ## 📊 Dataset Description
-The dataset contains **9,800 records** and **18 variables**, representing different dimensions of the retail business.
+The dataset consists of extensive sales records featuring **18 variables**, representing different dimensions of the retail business.
 
 ### 🔹 Key Dimensions
 * **Order ID** & **Ship Mode**.
@@ -63,8 +63,6 @@ The project demonstrates a modern data analysis workflow:
 * 📱 **Technology** is the highest revenue-generating category.
 * 🗺️ **West Region** leads in overall sales performance.
 * 🚚 **Standard Class** is the most frequently used shipping method.
-
-
 
 ---
 
